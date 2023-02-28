@@ -1,8 +1,9 @@
-acmbuild (1.4.4-deb11u2) UNRELEASED; urgency=medium
+acmbuild (1.4.4+deb11u2) bullseye; urgency=medium
 
   * Change to Debian native format
+  * Change watchfile after GitHub API change.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Tue, 28 Feb 2023 14:09:49 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 28 Feb 2023 15:12:15 +0000
 
 acmbuild (1.4.4-deb11u1) bullseye; urgency=medium
 
