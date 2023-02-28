@@ -1,0 +1,24 @@
+Source: acmbuild
+Section: misc
+Priority: extra
+Maintainer: Mark Grant <m.grant.prg@gmail.com>
+Build-Depends: debhelper (>= 12~), autoconf, automake,
+	txt2man, txt2manwrap
+Standards-Version: 4.5.1
+Vcs-Git: https://github.com/m-grant-prg/acmbuild.git
+Vcs-Browser: https://github.com/m-grant-prg/acmbuild
+
+Package: acmbuild
+Architecture: all
+Depends: autoconf, automake, autotools-dev, make,
+	${misc:Depends}
+Suggests: gcc, git, gnulib, sparse
+Description: AutoTools build script.
+ An AutoTools build script. Runs:-
+ autoreconf -if
+ ./configure
+ and then optionally one of:-
+ make
+ make distcheck distclean
+ make dist clean distclean
+ make srctarball distclean
