@@ -3,7 +3,7 @@ Upstream-Name: acmbuild
 Source: https://github.com/m-grant-prg/acmbuild
 
 Files: *
-Copyright: (C) 2014-2022 Mark Grant <m.grant.prg@gmail.com>
+Copyright: (C) 2014-2023 Mark Grant <m.grant.prg@gmail.com>
 License: GPL-3.0-only
 
 Files: debian/*
