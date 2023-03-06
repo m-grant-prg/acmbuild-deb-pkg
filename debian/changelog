@@ -1,11 +1,11 @@
-acmbuild (1.5.1-0ubuntu20.04u1) UNRELEASED; urgency=medium
+acmbuild (1.5.1-0ubuntu20.04u1) focal; urgency=medium
 
   * Update watch file following github ABI breakage.
   * Update debian files Copyright for 2023.
   * Merge new upstream release.
   * Update upstream files Copyright for 2023.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Mon, 06 Mar 2023 15:17:01 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 06 Mar 2023 15:20:23 +0000
 
 acmbuild (1.4.4-0ubuntu20.04u1) focal; urgency=medium
 
