@@ -1,11 +1,11 @@
-acmbuild (1.5.1-0ubuntu22.04u1) UNRELEASED; urgency=medium
+acmbuild (1.5.1-0ubuntu22.04u1) jammy; urgency=medium
 
   * Update watch file following GitHub API breakage.
   * Update debian files Copyright for 2023.
   * Merge new upstream release.
   * Update upstream files copyright for 2023.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Mon, 06 Mar 2023 15:28:07 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 06 Mar 2023 15:30:28 +0000
 
 acmbuild (1.4.4-0ubuntu22.04u1) jammy; urgency=medium
 
