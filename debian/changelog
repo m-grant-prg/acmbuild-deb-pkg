@@ -1,8 +1,8 @@
-acmbuild (1.4.4+deb11u3) UNRELEASED; urgency=medium
+acmbuild (1.5.1+deb11u1) UNRELEASED; urgency=medium
 
-  * Update debian files Copyright for 2023.
+  * Merge new upstream release v1.5.1
 
- -- Mark Grant <m.grant.prg@gmail.com>  Tue, 28 Feb 2023 15:37:51 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 06 Mar 2023 14:26:04 +0000
 
 acmbuild (1.4.4+deb11u2) bullseye; urgency=medium
 
