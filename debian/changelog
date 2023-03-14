@@ -1,3 +1,9 @@
+acmbuild (1.5.2-0ubuntu22.04u1) UNRELEASED; urgency=medium
+
+  * Merge new upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 14 Mar 2023 10:31:08 +0000
+
 acmbuild (1.5.1-0ubuntu22.04u1) jammy; urgency=medium
 
   * Update watch file following GitHub API breakage.
