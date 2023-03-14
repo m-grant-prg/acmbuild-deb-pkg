@@ -1,8 +1,8 @@
-acmbuild (1.5.2+deb11u1) UNRELEASED; urgency=medium
+acmbuild (1.5.2+deb11u1) bullseye; urgency=medium
 
   * Merge new upstream release.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Tue, 14 Mar 2023 10:02:06 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 14 Mar 2023 10:03:25 +0000
 
 acmbuild (1.5.1+rc1+deb11u1) bullseye; urgency=medium
 
