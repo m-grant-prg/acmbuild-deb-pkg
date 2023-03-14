@@ -1,8 +1,8 @@
-acmbuild (1.5.2-0ubuntu20.04u1) UNRELEASED; urgency=medium
+acmbuild (1.5.2-0ubuntu20.04u1) focal; urgency=medium
 
   * Merge new upstream release.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Tue, 14 Mar 2023 10:23:43 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 14 Mar 2023 10:24:54 +0000
 
 acmbuild (1.5.1-0ubuntu20.04u1) focal; urgency=medium
 
