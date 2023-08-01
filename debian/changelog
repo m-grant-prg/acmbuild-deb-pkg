@@ -1,8 +1,8 @@
-acmbuild (1.6.0+deb13u1) UNRELEASED; urgency=medium
+acmbuild (1.6.0+deb13u1) trixie; urgency=medium
 
   * Create testing branch.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Tue, 01 Aug 2023 15:07:51 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 01 Aug 2023 15:08:31 +0100
 
 acmbuild (1.6.0+deb12u1) bookworm; urgency=medium
 
