@@ -2,6 +2,7 @@ acmbuild (1.6.0+deb12u1) UNRELEASED; urgency=medium
 
   * Merge new upstream release.
   * Remove txtman, rely on txt2manwrap dependecies.
+  * Update watch file to support ~.
 
  -- Mark Grant <m.grant.prg@gmail.com>  Tue, 01 Aug 2023 14:55:42 +0100
 
