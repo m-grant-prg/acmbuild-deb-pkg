@@ -1,8 +1,8 @@
-acmbuild (1.6.1+deb12u1) UNRELEASED; urgency=medium
+acmbuild (1.6.1+deb12u1) bookworm; urgency=medium
 
   * Merge new upstream release.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Tue, 29 Aug 2023 09:26:53 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 29 Aug 2023 09:28:44 +0100
 
 acmbuild (1.6.0+deb12u1) bookworm; urgency=medium
 
