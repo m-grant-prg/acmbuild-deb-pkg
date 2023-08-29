@@ -1,8 +1,8 @@
-acmbuild (1.6.1+deb13u1) UNRELEASED; urgency=medium
+acmbuild (1.6.1+deb13u1) trixie; urgency=medium
 
   * Merge new upstream release.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Tue, 29 Aug 2023 09:32:59 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 29 Aug 2023 09:34:37 +0100
 
 acmbuild (1.6.0+deb13u1) trixie; urgency=medium
 
