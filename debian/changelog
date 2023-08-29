@@ -1,3 +1,9 @@
+acmbuild (1.6.1-0ubuntu22.04u1) UNRELEASED; urgency=medium
+
+  * Merge new upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 29 Aug 2023 09:38:29 +0100
+
 acmbuild (1.6.0-0ubuntu22.04u1) jammy; urgency=medium
 
   * Merge new upstream release.
