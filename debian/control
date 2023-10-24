@@ -11,8 +11,8 @@ Vcs-Browser: https://github.com/m-grant-prg/acmbuild
 Package: acmbuild
 Architecture: all
 Depends: autoconf, automake, autotools-dev, make,
-	${misc:Depends},
-	mgrant-obs-deb-keyring
+	mgrant-obs-deb-keyring,
+	${misc:Depends}
 Suggests: gcc, git, gnulib, sparse
 Description: AutoTools build script.
  An AutoTools build script. Runs:-
