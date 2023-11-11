@@ -1,3 +1,10 @@
+acmbuild (1.6.2+deb13u1) trixie; urgency=medium
+
+  * New upstream release
+  * Improve ordering of Depends
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 11 Nov 2023 15:26:37 +0000
+
 acmbuild (1.6.1+deb13u1) trixie; urgency=medium
 
   * Merge new upstream release.
