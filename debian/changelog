@@ -1,3 +1,10 @@
+acmbuild (1.6.2+deb12u1) bookworm; urgency=medium
+
+  * New upstream release.
+  * Improve ordering of Depends
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 11 Nov 2023 15:17:54 +0000
+
 acmbuild (1.6.1+deb12u1) bookworm; urgency=medium
 
   * Merge new upstream release.
