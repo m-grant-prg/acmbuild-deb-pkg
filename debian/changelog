@@ -1,3 +1,9 @@
+acmbuild (1.6.3+deb12u1) bookworm; urgency=medium
+
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 03 May 2024 15:13:38 +0100
+
 acmbuild (1.6.3~rc1+deb12u1) bookworm; urgency=medium
 
   * New upstream development release
@@ -10,7 +16,7 @@ acmbuild (1.6.3~rc1+deb12u1) bookworm; urgency=medium
   * Add lintian override for watch file
   * Silence lintian changelog-file-missing-explicit-entry warning
 
- -- Mark Grant <m.grant.prg@gmail.com>  Tue, 19 Mar 2024 10:44:47 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 03 May 2024 15:12:09 +0100
 
 acmbuild (1.6.2+deb12u1) bookworm; urgency=medium
 
