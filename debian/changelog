@@ -1,0 +1,515 @@
+acmbuild (1.6.3+deb13u1) trixie; urgency=medium
+
+  * New upstream release
+  * Update editorconfig to v1.0.6
+  * Update gitattributes to v1.0.5
+  * Update gitignore to v1.0.12
+  * Update mailmap to v1.0.4
+  * Update Copyright for 2024
+  * Remove [Build-]Depends on essential packages
+  * Add lintian override for watch file
+  * Silence lintian changelog-file-missing-explicit-entry warning
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 03 May 2024 15:17:40 +0100
+
+acmbuild (1.6.2+deb13u1) trixie; urgency=medium
+
+  * New upstream release
+  * Improve ordering of Depends
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 11 Nov 2023 15:26:37 +0000
+
+acmbuild (1.6.1+deb13u1) trixie; urgency=medium
+
+  * Merge new upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 29 Aug 2023 09:34:37 +0100
+
+acmbuild (1.6.0+deb13u1) trixie; urgency=medium
+
+  * Create testing branch.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 01 Aug 2023 15:08:31 +0100
+
+acmbuild (1.6.0+deb12u1) bookworm; urgency=medium
+
+  * Merge new upstream release.
+  * Remove txtman, rely on txt2manwrap dependecies.
+  * Update watch file to support ~.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 01 Aug 2023 15:00:39 +0100
+
+acmbuild (1.5.2+deb11u1) bullseye; urgency=medium
+
+  * Merge new upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 14 Mar 2023 10:03:25 +0000
+
+acmbuild (1.5.1+rc1+deb11u1) bullseye; urgency=medium
+
+  * Merge new upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 10 Mar 2023 10:32:00 +0000
+
+acmbuild (1.5.1+deb11u1) bullseye; urgency=medium
+
+  * Merge new upstream release v1.5.1
+  * Update Copyright for 2023.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 06 Mar 2023 14:35:01 +0000
+
+acmbuild (1.4.4+deb11u2) bullseye; urgency=medium
+
+  * Change to Debian native format
+  * Change watchfile after GitHub API change.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 28 Feb 2023 15:12:15 +0000
+
+acmbuild (1.4.4-deb11u1) bullseye; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 07 Sep 2022 09:15:49 +0100
+
+acmbuild (1.4.3-deb11u1) bullseye; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 01 Sep 2022 10:06:52 +0100
+
+acmbuild (1.4.2-deb11u1) bullseye; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 29 Aug 2022 09:29:48 +0100
+
+acmbuild (1.4.1-deb11u1) bullseye; urgency=medium
+
+  * New upstream release.
+  * Update upstream files copyright.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 07 Jun 2022 10:33:48 +0100
+
+acmbuild (1.3.13-deb11u2) bullseye; urgency=medium
+
+  * Update to compatibility level 13.
+  * Update Debian files copyright for 2022.
+  * Add Depends on OBS signing key package.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 25 Apr 2022 14:30:51 +0000
+
+acmbuild (1.3.13-deb11u1) bullseye; urgency=medium
+
+  * New upstream release.
+  * Review standards up to current version 4.5.1
+  * Tighten Licensing in copyright.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 21 Nov 2021 14:38:51 +0000
+
+acmbuild (1.3.12+rc1-deb11u1) bullseye; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 19 Nov 2021 16:23:41 +0000
+
+acmbuild (1.3.12-deb11u1) bullseye; urgency=medium
+
+  * Create new bullseye branch.
+  * Remove unnecessary .docs file.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 19 Aug 2021 09:09:14 +0100
+
+acmbuild (1.3.12-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 31 May 2021 10:28:14 +0100
+
+acmbuild (1.3.11-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 19 Apr 2021 09:40:11 +0100
+
+acmbuild (1.3.10+rc3-deb10u1) buster; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 16 Apr 2021 10:00:43 +0100
+
+acmbuild (1.3.10+rc2-deb10u2) buster; urgency=medium
+
+  * Update Copyright for 2021.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 04 Mar 2021 10:41:29 +0000
+
+acmbuild (1.3.10+rc2-deb10u1) buster; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 04 Mar 2021 10:26:29 +0000
+
+acmbuild (1.3.10-deb10u2) buster; urgency=medium
+
+  * Upgrade to compatibility level 12.
+  * Package reviewed up to current standards version 4.3.0.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 21 Oct 2020 10:37:18 +0100
+
+acmbuild (1.3.10-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+    Finalise Build depends, Depends and Suggests.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 12 Jun 2020 15:53:18 +0100
+
+acmbuild (1.3.9+rc1-deb10u1) buster; urgency=medium
+
+  * New upstream development release.
+    Correct Build depends, Depends and add Suggests.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 11 Jun 2020 15:48:01 +0100
+
+acmbuild (1.3.9-deb10u2) buster; urgency=medium
+
+  * Correct Depends and Build depends.
+    Update Copyright for 2020.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 10 Jun 2020 15:56:47 +0000
+
+acmbuild (1.3.9-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 01 Dec 2019 10:52:47 +0000
+
+acmbuild (1.3.8-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 28 Oct 2019 10:42:37 +0000
+
+acmbuild (1.3.7-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+    Correct the filenamemangle to remove the v preceding the version number.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 19 Sep 2019 14:15:37 +0100
+
+acmbuild (1.3.6-deb10u1) buster; urgency=medium
+
+  * Re-build for buster.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 22 Jul 2019 14:29:52 +0100
+
+acmbuild (1.3.6-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 25 Jun 2019 15:59:52 +0100
+
+acmbuild (1.3.5-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 20 Jun 2019 14:50:32 +0100
+
+acmbuild (1.3.4-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 18 Jun 2019 10:53:30 +0100
+
+acmbuild (1.3.3-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 02 May 2019 10:29:45 +0100
+
+acmbuild (1.3.2-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 05 Apr 2019 14:24:51 +0100
+
+acmbuild (1.3.1-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 24 Mar 2019 09:51:06 +0000
+
+acmbuild (1.2.13+rc2-deb9u1) stretch; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 22 Mar 2019 15:02:03 +0000
+
+acmbuild (1.2.13+rc1-deb9u1) stretch; urgency=medium
+
+  * New upstream development release.
+    Update watch file to use new standard source filenames and new repo name
+    when retrieving from local source server.
+    Update Copyright statements.
+    Use new Debian standard docs file.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 17 Mar 2019 10:04:46 +0000
+
+acmbuild (1.2.13-deb9u2) stretch; urgency=medium
+
+  * Update watch file to new standard format.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 31 Oct 2018 10:27:31 +0100
+
+acmbuild (1.2.13-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+    Update watch file to use new standard source filename on local server.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 27 Oct 2018 10:13:31 +0100
+
+acmbuild (1.2.12-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 17 Oct 2018 10:53:37 +0100
+
+acmbuild (1.2.11-deb9u2) stretch; urgency=medium
+
+  * Change control file architecture statement from any to all as the package is
+    architecture independent.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 23 Aug 2018 14:52:41 +0100
+
+acmbuild (1.2.11-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 23 Aug 2018 13:49:41 +0100
+
+acmbuild (1.2.10-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 06 Aug 2018 16:08:28 +0100
+
+acmbuild (1.2.9-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 02 Jul 2018 14:26:39 +0100
+
+acmbuild (1.2.8-deb9u2) stretch; urgency=medium
+
+  * Accommodate change to directory where source tarball is found on hermes.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 19 Apr 2018 07:13:07 +0100
+
+acmbuild (1.2.8-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 09 Apr 2018 14:59:07 +0100
+
+acmbuild (1.2.7-deb9u1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 08 Apr 2018 08:23:28 +0100
+
+acmbuild (1.2.5-mgent1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 25 Mar 2018 10:45:33 +0100
+
+acmbuild (1.2.4-mgent2) stretch; urgency=medium
+
+  * Remove unnecessary Depends ${shlibs:Depends} in control file.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 24 Feb 2018 09:34:21 +0000
+
+acmbuild (1.2.4-mgent1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 20 Feb 2018 14:14:21 +0000
+
+acmbuild (1.2.3-mgent1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 19 Feb 2018 15:33:16 +0000
+
+acmbuild (1.2.2-8-g0a04cfa-mgent1) stretch; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 09 Feb 2018 09:43:22 +0000
+
+acmbuild (1.2.2-5-g8cf9ef6-mgent1) stretch; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 09 Feb 2018 09:11:34 +0000
+
+acmbuild (1.2.2-1-g9ae5094-mgent1) stretch; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 06 Feb 2018 10:37:15 +0000
+
+acmbuild (1.2.2-0mgent1) stretch; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 04 Dec 2017 15:29:17 +0000
+
+acmbuild (1.2.1-0mgent4) stretch; urgency=medium
+
+  * Correct copyright file to GPLv3.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 28 Nov 2017 08:58:13 +0100
+
+acmbuild (1.2.1-0mgent3) stretch; urgency=medium
+
+  * Correct Maintainer string in control and changelog files.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 22 Oct 2017 14:22:13 +0100
+
+acmbuild (1.2.1-0mgent2) stretch; urgency=medium
+
+  * Correct Maintainer string in control and changelog files.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Sat, 19 Aug 2017 13:50:13 +0100
+
+acmbuild (1.2.1-0mgent1) stretch; urgency=medium
+
+  * Change package version format.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Sun, 13 Aug 2017 10:02:13 +0100
+
+acmbuild (1.2.1-0ubuntu1) xenial; urgency=medium
+
+  * New upstream release, cosmetic source changes only.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Sun, 25 Jun 2017 10:05:13 +0100
+
+acmbuild (1.2.0-0ubuntu1) xenial; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Fri, 28 Apr 2017 10:28:34 +0100
+
+acmbuild (1.1.1-5-g0d21e52-0ubuntu1) xenial; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Sat, 25 Feb 2017 15:15:20 +0000
+
+acmbuild (1.1.1-1-g3c3e86d-0ubuntu1) xenial; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Fri, 24 Feb 2017 14:30:36 +0000
+
+acmbuild (1.1.1-0ubuntu1) xenial; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant PRG <m.grant.prg@gmail.com>  Tue, 31 Jan 2017 14:44:15 +0000
+
+acmbuild (1.0.12-0ubuntu3) xenial; urgency=medium
+
+  * Update to xenial.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Sat, 23 Apr 2016 13:59:17 +0100
+
+acmbuild (1.0.12-0ubuntu2) wily; urgency=medium
+
+  * Update to wily.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Sat, 21 Nov 2015 15:09:17 +0100
+
+acmbuild (1.0.12-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Sat, 17 Oct 2015 15:11:17 +0100
+
+acmbuild (1.0.11-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Sun, 27 Sep 2015 15:23:07 +0100
+
+acmbuild (1.0.10-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Fri, 26 Jun 2015 10:29:06 +0100
+
+acmbuild (1.0.9-0ubuntu1) utopic; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Sat, 28 Mar 2015 15:51:11 +0000
+
+acmbuild (1.0.8-0ubuntu1) utopic; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant Prg <m.grant.prg@gmail.com>  Sat, 28 Mar 2015 14:51:14 +0000
+
+acmbuild (1.0.7-2-g7bc4028-0ubuntu1) trusty; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 11 Dec 2014 09:35:27 +0000
+
+acmbuild (1.0.7-1-g3eda031-0ubuntu1) trusty; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 25 Nov 2014 11:10:11 +0000
+
+acmbuild (1.0.7-0ubuntu1) trusty; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 24 Nov 2014 10:00:10 +0000
+
+acmbuild (1.0.6-0ubuntu1) trusty; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 18 Nov 2014 11:12:29 +0000
+
+acmbuild (1.0.5-0ubuntu1) trusty; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 16 Nov 2014 15:04:23 +0000
+
+acmbuild (1.0.4-0ubuntu1) trusty; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 16 Nov 2014 14:02:31 +0000
+
+acmbuild (1.0.3-0ubuntu1) trusty; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 13 Nov 2014 14:46:42 +0000
+
+acmbuild (1.0.2-0ubuntu1) trusty; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 27 Oct 2014 15:00:45 +0000
+
+acmbuild (1.0.1-4-0ubuntu1) trusty; urgency=low
+
+  * Initial release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Tue, 26 Aug 2014 13:25:32 +0100
