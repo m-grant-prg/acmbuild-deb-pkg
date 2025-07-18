@@ -1,3 +1,9 @@
+acmbuild (1.6.3+deb13u2) trixie; urgency=medium
+
+  * New Trixie release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 18 Jul 2025 09:12:33 +0100
+
 acmbuild (1.6.3+deb13u1) trixie; urgency=medium
 
   * New upstream release
