@@ -1,3 +1,10 @@
+acmbuild (1.6.3+deb14u2) trixie; urgency=medium
+
+  * Transition form trixie to forky
+  * Update Copyright for 2025
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 24 Aug 2025 15:57:56 +0100
+
 acmbuild (1.6.3+deb13u1) trixie; urgency=medium
 
   * New upstream release
