@@ -1,3 +1,9 @@
+acmbuild (1.6.3+deb14u3) forky; urgency=medium
+
+  * Fix release forky AOT trixie
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 24 Aug 2025 16:07:46 +0100
+
 acmbuild (1.6.3+deb14u2) trixie; urgency=medium
 
   * Transition form trixie to forky
