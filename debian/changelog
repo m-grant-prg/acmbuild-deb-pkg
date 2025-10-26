@@ -1,3 +1,9 @@
+acmbuild (1.7.0+deb14u1) forky; urgency=medium
+
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 26 Oct 2025 08:06:40 +0000
+
 acmbuild (1.6.3+deb14u3) forky; urgency=medium
 
   * Fix release forky AOT trixie
