@@ -1,3 +1,10 @@
+acmbuild (1.7.4+deb14u1) forky; urgency=medium
+
+  * Update Copyright for 2026
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 12 Jan 2026 15:32:45 +0000
+
 acmbuild (1.7.1+deb14u1) forky; urgency=medium
 
   * New upstream release
